@@ -34,7 +34,9 @@ Beyond enterprise production, I maintain a diverse portfolio of 90+ repositories
 #### Full-Stack & Cloud Architecture
 * **[SaaS for Prize Machines](https://github.com/ursoland/marvitech-api):** A high-performance, cost-effective SaaS architecture for managing prize machines.
     *   **Backend:** .NET 9, Clean Architecture, DDD, Multi-tenancy.
-    *   **Infra:** Self-hosted PaaS on VPS using Docker, Traefik (Reverse Proxy), Watchtower (Auto-updates), and MinIO (Object Storage) to minimize cloud costs while maximizing robustness.
+    *   **IoT Fleet:** **Balena IoT** for managing distributed Raspberry Pi devices running C++ firmware (see [balena-img](https://github.com/marvitech/balena-img)).
+    *   **Infra:** Self-hosted PaaS on VPS using Docker, Traefik (Reverse Proxy), Watchtower (Auto-updates), and MinIO (Object Storage).
+    *   **Frontend:** **React (Vite)** for Admin Panel and **Next.js** for Customer App.
     *   **Mobile:** Offline-first Flutter app with SQLite sync for field operations.
 
 #### Generative AI & Voice
@@ -45,6 +47,8 @@ Beyond enterprise production, I maintain a diverse portfolio of 90+ repositories
 
 #### Educational AI & Gamification
 * **[vision-game](https://github.com/alexandremendoncaalvaro/vision-game) (Private/JS):** An interactive isometric game that teaches Machine Learning concepts (Selection Bias, Class Imbalance, Overfitting) through visual data curation simulations.
+Game: https://alexandrealvaro.com.br/vision-game/
+
 * **[pokelearning-api](https://github.com/alexandremendoncaalvaro/pokelearning-api):** A gamified API that teaches ML training concepts (Epochs, Learning Rate) using Pokémon evolution mechanics. Used as a **technical assessment platform** for hiring backend/frontend developers.
 * **[buzz-game](https://github.com/alexandremendoncaalvaro/buzz-game):** A real-time interactive game platform for remote team building and quizzes.
 
@@ -55,6 +59,7 @@ Beyond enterprise production, I maintain a diverse portfolio of 90+ repositories
 * **[draw-size](https://github.com/alexandremendoncaalvaro/draw-size):** Real-time physical size estimation using webcam feeds.
 * **[self-driving-car-ml](https://github.com/alexandremendoncaalvaro/self-driving-car-ml):** Neural network implementation for autonomous driving simulation.
 * **[multilateration](https://github.com/alexandremendoncaalvaro/Multilateration):** Indoor positioning simulation using multilateration algorithms (Beacon/UWB concepts) on HTML5 Canvas.
+Simulation: https://alexandrealvaro.com.br/Multilateration/
 
 #### IoT & Hardware Hacking
 * **[TableTennisShooter](https://github.com/alexandremendoncaalvaro/TableTennisShooter) (Private/C++):** Firmware for a custom-built table tennis ball launcher robot.
