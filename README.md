@@ -32,14 +32,15 @@ Beyond enterprise production, I maintain a diverse portfolio of 90+ repositories
 * **[blueprint](https://github.com/alexandremendoncaalvaro/blueprint):** A CLI tool written in **Go** to orchestrate immutable development environments on **Bluefin (Fedora Atomic)**. Automates the provisioning of Distrobox containers, VS Code Remote connections, and system configurations, enforcing reproducible dev environments.
 
 #### Full-Stack & Cloud Architecture
-* **[Marvitech / Urso Land](https://github.com/ursoland/marvitech-api):** A high-performance, cost-effective SaaS architecture for managing prize machines.
+* **[SaaS for Prize Machines](https://github.com/ursoland/marvitech-api):** A high-performance, cost-effective SaaS architecture for managing prize machines.
     *   **Backend:** .NET 9, Clean Architecture, DDD, Multi-tenancy.
     *   **Infra:** Self-hosted PaaS on VPS using Docker, Traefik (Reverse Proxy), Watchtower (Auto-updates), and MinIO (Object Storage) to minimize cloud costs while maximizing robustness.
     *   **Mobile:** Offline-first Flutter app with SQLite sync for field operations.
 
 #### Generative AI & Voice
-* **[skill-alexa-chatgpt4](https://github.com/alexandremendoncaalvaro/skill-alexa-chatgpt4):** Bridging the gap between voice assistants and Large Language Models.
 * **Mojo Language Contributor:** Early contributor to the **[official Modular](https://github.com/modular/modular/pull/1182)** repository to improve containerized environments.
+* **[White-label AI Branding Platform](https://github.com/alexandremendoncaalvaro/energia-mvp) (Private/TS):** An AI-powered platform designed for an ad agency to democratize brand creation. Guides small business owners (bakeries, workshops) through a conversational interface to generate professional visual identities and brand assets autonomously.
+* **[skill-alexa-chatgpt4](https://github.com/alexandremendoncaalvaro/skill-alexa-chatgpt4):** Bridging the gap between voice assistants and Large Language Models.
 * **[llama2.mojo](https://github.com/alexandremendoncaalvaro/llama2.mojo):** High-performance inference experiments using the **Mojo** programming language.
 
 #### Educational AI & Gamification
@@ -48,7 +49,7 @@ Beyond enterprise production, I maintain a diverse portfolio of 90+ repositories
 * **[buzz-game](https://github.com/alexandremendoncaalvaro/buzz-game):** A real-time interactive game platform for remote team building and quizzes.
 
 #### Computer Vision & Utilities
-* **[estudio-de-papelao-v1](https://github.com/alexandremendoncaalvaro/estudio-de-papelao-v1) (Private/React):** Web-based prototype for "Soda Vision", a professional Computer Vision editing studio.
+* **[Computer Vision Studio Prototype](https://github.com/alexandremendoncaalvaro/estudio-de-papelao-v1) (Private/React):** Web-based prototype for a professional Computer Vision editing studio.
 * **[basler-camera-streamer](https://github.com/alexandremendoncaalvaro/basler-camera-streamer):** Robust streaming utilities for industrial Basler cameras.
 * **[webcam-ip](https://github.com/alexandremendoncaalvaro/webcam-ip) / [webcam-ip-python](https://github.com/alexandremendoncaalvaro/webcam-ip-python):** Utilities in C++ and Python to transform webcams into IP cameras, useful for WSL2 bridging and remote monitoring.
 * **[draw-size](https://github.com/alexandremendoncaalvaro/draw-size):** Real-time physical size estimation using webcam feeds.
@@ -58,10 +59,10 @@ Beyond enterprise production, I maintain a diverse portfolio of 90+ repositories
 #### IoT & Hardware Hacking
 * **[TableTennisShooter](https://github.com/alexandremendoncaalvaro/TableTennisShooter) (Private/C++):** Firmware for a custom-built table tennis ball launcher robot.
 * **[soccer-scoreboard-diy](https://github.com/alexandremendoncaalvaro/soccer-scoreboard-diy):** A complete DIY digital scoreboard for soccer, built from scratch with microcontrollers.
-* **[KibonSmartCabinet](https://github.com/alexandremendoncaalvaro/KibonSmartCabinet) (Private/D Language):** IoT project for smart cabinets using the **D** programming language.
+* **[Smart Ice Cream Cabinet IoT](https://github.com/alexandremendoncaalvaro/KibonSmartCabinet) (Private/D Language):** Commercial IoT project for smart cabinets using Hardware Development (PCB) with **C** programming language.
 * **[digital-caliper-hack-ble](https://github.com/alexandremendoncaalvaro/digital-caliper-hack-ble):** Reverse engineering low-cost hardware to add Bluetooth connectivity via ESP32.
 * **[esp32-basicao](https://github.com/alexandremendoncaalvaro/esp32-basicao):** A battle-tested production template for ESP32 firmware projects.
-* **[severinopi](https://github.com/alexandremendoncaalvaro/severinopi) / [face-access](https://github.com/alexandremendoncaalvaro/face-access):** Face recognition access control systems for Raspberry Pi and Arduino.
+* **[severinopi](https://github.com/alexandremendoncaalvaro/severinopi) / [face-access](https://github.com/alexandremendoncaalvaro/face-access):** Face recognition access control systems for Raspberry Pi and PC with Arduino Firmata.
 * **[soft-power-button-raspberry](https://github.com/alexandremendoncaalvaro/soft-power-button-raspberry):** Hardware and script solution for safe shutdown buttons on Raspberry Pi.
 
 #### Creative Engineering & Tools
