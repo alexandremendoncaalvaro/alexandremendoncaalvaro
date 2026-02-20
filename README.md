@@ -59,7 +59,7 @@ Beyond enterprise production, I maintain a diverse portfolio of 90+ repositories
 #### IoT & Hardware Hacking
 * **[TableTennisShooter](https://github.com/alexandremendoncaalvaro/TableTennisShooter) (Private/C++):** Firmware for a custom-built table tennis ball launcher robot.
 * **[soccer-scoreboard-diy](https://github.com/alexandremendoncaalvaro/soccer-scoreboard-diy):** A complete DIY digital scoreboard for soccer, built from scratch with microcontrollers.
-* **[Smart Ice Cream Cabinet IoT](https://github.com/alexandremendoncaalvaro/KibonSmartCabinet) (Private/D Language):** Commercial IoT project for smart cabinets using Hardware Development (PCB) with **C** programming language.
+* **[Smart Ice Cream Cabinet IoT](https://github.com/alexandremendoncaalvaro/KibonSmartCabinet) (Private/C++):** Commercial IoT project for smart cabinets involving custom Hardware Development (PCB) and **C++** firmware.
 * **[digital-caliper-hack-ble](https://github.com/alexandremendoncaalvaro/digital-caliper-hack-ble):** Reverse engineering low-cost hardware to add Bluetooth connectivity via ESP32.
 * **[esp32-basicao](https://github.com/alexandremendoncaalvaro/esp32-basicao):** A battle-tested production template for ESP32 firmware projects.
 * **[severinopi](https://github.com/alexandremendoncaalvaro/severinopi) / [face-access](https://github.com/alexandremendoncaalvaro/face-access):** Face recognition access control systems for Raspberry Pi and PC with Arduino Firmata.
@@ -73,10 +73,10 @@ Beyond enterprise production, I maintain a diverse portfolio of 90+ repositories
 
 ### Core Tech Stack
 
-* **Languages:** Python, C++, TypeScript/JavaScript, C# / .NET, Go, Swift, Mojo.
-* **AI & Computer Vision:** PyTorch, TensorFlow, OpenCV, YOLO, NVIDIA DeepStream, Local LLMs (Llama, Mistral).
-* **Edge & Hardware:** Embedded Linux, Raspberry Pi, ESP32, NVIDIA Jetson, Industrial PCs.
-* **Backend & Cloud:** FastAPI, Docker, Balena IoT, Azure IoT, AWS, MQTT, OPC UA, PostgreSQL.
+* **Languages:** Python, C++, TypeScript/JavaScript, C# / .NET, Go, Swift, Mojo, Dart.
+* **AI, Computer Vision & Robotics:** PyTorch, TensorFlow, OpenCV, YOLO, ROS (Robot Operating System), NVIDIA DeepStream, Local LLMs.
+* **Edge & Hardware:** Embedded Linux, Raspberry Pi, ESP32, NVIDIA Jetson, Industrial PCs, Bluefin (Atomic OS).
+* **Full-Stack & Cloud:** FastAPI, React, Flutter, Docker, Traefik, MinIO, Supabase, Azure IoT, AWS, PostgreSQL.
 
 ---
 
