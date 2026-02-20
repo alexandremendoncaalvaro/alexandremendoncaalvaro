@@ -1,55 +1,47 @@
-# **Alexandre Mendonça Alvaro**
+# Alexandre Mendonça Alvaro
 
-**Senior AI Engineer | Edge & Systems Architect**
+**Senior AI Engineer | Edge & Systems Architect | Polyglot Problem Solver**
 
-*(Remote / Brazil) • alexandre.alvaro@hotmail.com • [LinkedIn Profile](https://www.linkedin.com/in/alexandrealvaro)*
+I am a Software Architect with over 15 years of experience bridging the gap between mission-critical hardware (OT) and modern Cloud/AI architecture (IT). I don't just train models; I engineer **robust, offline-first ecosystems** that solve physical problems in the real world.
 
-## **PROFESSIONAL SUMMARY**
+My background stems from heavy industrial automation (offshore oil & gas, critical infrastructure), which embedded a deep, fail-safe pragmatism into my engineering DNA. Today, I apply that same mission-critical mindset to deploying scalable AI and Computer Vision to the Edge.
 
-Senior AI & Computer Vision Engineer with over 15 years of software engineering experience, specializing in deploying robust Machine Learning models into highly constrained production environments. Operating across the full machine learning lifecycle, I bridge the gap between Cloud AI architecture and mission-critical Edge hardware. Proven track record of architecting scalable Computer Vision ecosystems for global enterprises (AB-Inbev, Colgate-Palmolive), transforming physical operations through reliable, offline-first, and fault-tolerant AI solutions.
+---
 
-## **TECHNICAL SKILLS**
+### Engineering Philosophy
 
-* **Computer Vision & ML:** Full ML Lifecycle, TensorFlow, PyTorch, YOLO, OpenCV, NVIDIA DeepStream, Model Optimization.  
-* **Edge Computing & IoT:** C++, Python, Embedded Linux, NVIDIA GPUs / Industrial PCs, Docker, MQTT, OPC UA.  
-* **Software Engineering:** System Architecture, Domain-Driven Design (DDD), Clean Architecture, Microservices, DSL Design.  
-* **Cloud & DevOps:** Azure, AWS, Balena IoT, CI/CD pipelines for Edge Devices, Cloudflare Tunnels, PostgreSQL.
+* **Fail-Safe by Design:** If a system interacts with the physical world, it must be fault-tolerant. I specialize in deterministic, offline-first execution at the Edge.
+* **Spec-Driven Design & AI-Augmented Engineering:** I leverage AI (LLMs) not just as a product feature, but as a force multiplier in my daily workflow to write highly robust, test-covered code and bulletproof architectures.
+* **The Right Tool for the Job:** From writing C++ for constrained hardware to architecting high-level Cloud environments in Python or C#/.NET, I focus on the problem, not the syntax.
 
-## **PROFESSIONAL EXPERIENCE**
+### What I Build (Production Focus)
 
-### **Ambev Tech (AB InBev) | *Software Architect & Tech Lead***
+* **Industrial Computer Vision:** End-to-end proprietary CV platforms and GPU-accelerated edge deployments (replacing legacy sensors with deep learning).
+* **Edge-to-Cloud Ecosystems:** Decoupled architectures, IoT fleet management (Balena, Docker), and secure telemetry (OPC UA, MQTT) from offline environments.
+* **System Architecture:** Clean Architecture, Domain-Driven Design (DDD), and Domain-Specific Languages (DSL) for enterprise scalability.
 
-*Brazil | Jun 2016 – Present*
+### The Lab (Internal R&D)
 
-*Leading the engineering of **SODA Vision**, the company's proprietary end-to-end Computer Vision platform utilized by continuous improvement teams across factories worldwide.*
+Beyond enterprise production, I run a home lab with dedicated servers where I continuously experiment with the bleeding edge of AI:
+* Evaluating advanced Vision Transformers (**SAM3**) and the latest **YOLO** architectures.
+* Prototyping local **LLM** workflows, **RAG** architectures (with LangChain), and workflow automations (**n8n**).
+* Exploring the intersection of generative AI and physical systems.
 
-* **Cloud-to-Edge Architecture:** Architected the core ecosystem, successfully decoupling the Cloud-based ML Editor (training/management) from the deterministic Edge Runner (C++/Python inference), ensuring reliable execution on resource-constrained factory hardware.  
-* **Production Edge Deployment:** Developed "Soda Lens", a standardized edge sensor node architecture that executes vision inference entirely offline and publishes real-time results via **OPC UA** to the corporate ETL.  
-* **Technical Leadership:** Created a Domain-Specific Language (DSL) to standardize industrial vision pipelines, and mentored engineering teams in adopting strong software practices to ensure platform reliability.  
-* **Innovation:** Co-invented the "LAHBS Box," an intrapreneurship program that successfully scaled into a commercial offering for external markets.
+---
 
-### **Baunilha Systems (Technical Consultancy) | Principal AI Architect & Tech Lead**
+### Core Tech Stack
 
-*Remote / Brazil | Feb 2024 – Present*
+* **AI & Computer Vision:** PyTorch, TensorFlow, OpenCV, YOLO, NVIDIA DeepStream, Local LLMs.
+* **Edge & IoT:** C++, Python, Embedded Linux, Industrial PCs, Balena IoT, MQTT, OPC UA.
+* **Backend & Architecture:** Python (FastAPI), C# / .NET, React, PostgreSQL, Docker.
+* **Cloud & Infrastructure:** Azure IoT, AWS, Cloudflare Tunnels, CI/CD pipelines.
 
-*Acting as a principal consultant delivering custom Computer Vision and Edge AI solutions for global enterprise clients, operating end-to-end from software architecture to physical deployment.*
+---
 
-* **Global Edge AI Deployment (Colgate-Palmolive):** Architected and deployed a Deep Learning visual inspection system to replace legacy sensors in high-speed production lines.  
-* **Hardware & Field Integration:** Led the on-site physical installation, calibration, and integration of GPU-accelerated Industrial PCs across facilities in the **USA and Mexico**.  
-* **Reliable Engineering:** Engineered offline-first capabilities and fail-safe redundancy, drastically reducing false rejection rates and enabling real-time quality analytics at scale.  
-* **Industrial IoT Ecosystems:** Engineered a robust fleet management system for remote Edge devices using **Balena IoT**, ensuring reliable Over-The-Air (OTA) updates in low-connectivity environments.
+### Let's Connect
 
-### **Automation Engineer & Tech Lead | *Bosch Rexroth / TTM / Mayekawa***
+I'm always open to discussing complex architectural challenges, AI deployment at the Edge, or Venture Studio product building.
 
-*Brazil | 2007 – 2016*
-
-*Engineered high-reliability control software and logic for critical infrastructure and heavy industry projects.*
-
-* **Mission-Critical Systems:** Developed fault-tolerant automation logic for strategic physical infrastructure, including subsea manifolds for **Petrobras (Offshore)**, emergency response vehicles for **Infraero**, and the main sluice control for Argentina's largest wastewater treatment plant.  
-* **Engineering Foundation:** Built a strong foundation in Industrial Software Engineering (PLC, Industrial Hardware Integration), C\#, C++, and industrial protocols (Modbus, SCADA), embedding a pragmatic, failure-resistant approach to software engineering applied to modern AI systems today.
-
-## **LANGUAGES**
-
-* **Portuguese:** Native  
-* **English:** Full Professional Proficiency (Advanced)  
-* **Spanish:** Limited Working Proficiency
+* **Detailed History:** [Connect with me on LinkedIn](https://www.linkedin.com/in/alexandrealvaro)
+* **Contact:** alexandre.alvaro@hotmail.com
+* *Detailed, role-specific resume available upon request.*
