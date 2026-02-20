@@ -34,7 +34,7 @@ Beyond enterprise production, I maintain a diverse portfolio of 90+ repositories
 #### Full-Stack & Cloud Architecture
 * **[SaaS for Prize Machines](https://github.com/ursoland/marvitech-api):** A high-performance, cost-effective SaaS architecture for managing prize machines.
     * **Backend:** .NET 9, Clean Architecture, DDD, Multi-tenancy.
-    * **IoT Fleet:** **Balena IoT** for managing distributed Raspberry Pi devices running C++ firmware (see [balena-img](https://github.com/marvitech/balena-img)).
+    * **IoT Fleet:** **Balena IoT** for managing distributed Raspberry Pi devices running C++ firmware.
     * **Infra:** Self-hosted PaaS on VPS using Docker, Traefik (Reverse Proxy), Watchtower (Auto-updates), and MinIO (Object Storage).
     * **Frontend:** **React (Vite)** for Admin Panel and **Next.js** for Customer App.
     * **Mobile:** Offline-first Flutter app with SQLite sync for field operations.
@@ -63,7 +63,7 @@ Beyond enterprise production, I maintain a diverse portfolio of 90+ repositories
 #### IoT & Hardware Hacking
 * **TableTennisShooter** (Private/C++): Firmware for a custom-built table tennis ball launcher robot.
 * **[soccer-scoreboard-diy](https://github.com/alexandremendoncaalvaro/soccer-scoreboard-diy):** A complete DIY digital scoreboard for soccer, built from scratch with microcontrollers.
-* **Smart Ice Cream Cabinet IoT (Kibon)** (Private/C++): Commercial IoT project for smart cabinets involving custom Hardware Development (PCB) and **C++** firmware.
+* **Smart Ice Cream Cabinet IoT** (Private/C++): Commercial IoT project for smart cabinets involving custom Hardware Development (PCB) and **C++** firmware.
 * **[digital-caliper-hack-ble](https://github.com/alexandremendoncaalvaro/digital-caliper-hack-ble):** Reverse engineering low-cost hardware to add Bluetooth connectivity via ESP32.
 * **[esp32-basicao](https://github.com/alexandremendoncaalvaro/esp32-basicao):** A battle-tested production template for ESP32 firmware projects.
 * **[severinopi](https://github.com/alexandremendoncaalvaro/severinopi) / [face-access](https://github.com/alexandremendoncaalvaro/face-access):** Face recognition access control systems for Raspberry Pi and PC with Arduino Firmata.
